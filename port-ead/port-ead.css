@@ -1,6 +1,6 @@
 :root{
-    --purple:#1b683c;
-    --purple-light:#01250c;
+    --purple:#3460a1;
+    --purple-light:#001030;
     --dark-blue:#012677;
     --blue:#5c65c0;
     --skyblue :#00b4fc;
@@ -32,7 +32,7 @@ body{
     position: relative;
 }
 .profile-card{
-    background: #003228;
+    background: #002759;
     width:400px;
     padding: 3rem;
     border-radius: 10px;
@@ -69,7 +69,7 @@ body{
     margin-top: 20px;
 }
 .profile-details .intro h4{
-    background: #067854;
+    background: #0e5dc6;
     font-weight: 400;
     border-radius: 4px;
     padding: 5px 10px;
@@ -82,7 +82,7 @@ body{
 .profile-details .intro .social i{
     color:#ddd;
     font-size: 16px;
-    background-color:#182e1f;
+    background-color:#1b3151;
     margin: 5px;
     height: 35px;
     width:35px;
@@ -139,13 +139,13 @@ body{
 }
 /*****about section ****/
 .about{
-    background-color: #003228;
+    background-color: #002759;
     max-width: 800px;
     padding: 2rem 3rem;
     border-radius: 10px;
 }
 .about h1{
-    color:#bffee1;
+    color:#bfecfe;
     margin-bottom: 1.1rem;
     position: relative;
     display: inline-block;
